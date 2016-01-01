@@ -1,0 +1,2 @@
+Couldn't open SDL audio: DirectSoundCreate: No audio device found
+Couldn't start mixer!
